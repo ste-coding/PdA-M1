@@ -1,0 +1,121 @@
+body {
+  background-color:#FEF2FF;
+}
+
+.menu{
+  display:flex;
+  flex-direction: row;
+}
+.menu ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  font-size: 15px;
+}
+.menu ul li {
+margin-left: 15%;
+margin-right: 15%;
+}
+.menu img {
+  width: 18%;
+  height: 18%;
+}
+.menu button{
+background-color: #0E073F; 
+color: white;
+padding: 20px 20px;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+border: 30px white;
+border-radius: 20px;
+}
+.bio {
+  display: flex;
+  flex-direction: row;
+  margin: 10%;
+  font-size: 30px;
+  text-align: justify;
+}
+.bio img {
+  width: 100%;
+  height: 100%;
+  margin-right: 20%;
+  margin-left: 8%;
+}
+.habilidade{
+  background-color: #A531B4;
+  height: 100px;
+  color:white;
+  font-size:  25px;
+  display: flex;
+  flex-direction: now;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10%;
+}
+.titulos{
+  background-color: #0E073F;
+  text-align:center;
+  color:white;
+  font-size:80px;
+}
+.subtitulos{
+  text-align:center;
+  color:#0E073F;
+  font-size:40px;
+  align-items: center;
+}
+.contato{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contato ul{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  font-size: 20px;
+}
+.contato ul li{
+  align-items: center;
+  justify-content: space-between;
+
+}
+.contato button{
+background-color: #A531B4; 
+align-items: center;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+border: 30px white;
+border-radius: 20px;
+margin: 15px;
+
+}
+.realizacoes{
+  font-size: 30px;
+  margin-inline-start: 10%;
+}
+.realizacoes img{
+  width: 30%;
+  height: 60%;
+}
+.button{
+background-color: #A531B4; 
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+border: 30px white;
+border-radius: 20px;
+}
+
+button:hover {
+  width: 11rem;
+  height: 5rem;
+ }
