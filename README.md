@@ -19,6 +19,7 @@ Bem-vindo(a) ao meu repositório de anotações e exercícios do Módulo 1 do cu
 ## Estrutura do Repositório:
 Cada exercício realizado durante este módulo terá seu próprio espaço aqui. Segue guia de abreviações:
 - EX# - exercício (estará sempre seguido de palavra-chave)
+- AT# - atividade assíncrona
 - PI# - projeto individual
 - AR# - anotações e/ou resumos
 
